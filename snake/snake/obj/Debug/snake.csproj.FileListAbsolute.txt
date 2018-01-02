@@ -7,3 +7,6 @@ C:\Users\Екатерина\Source\Repos\happytickettt\snake\snake\obj\Debug\sna
 C:\Users\Екатерина\Documents\GitHub\snake\snake\snake\bin\Debug\snake.exe.config
 C:\Users\Екатерина\Documents\GitHub\snake\snake\snake\obj\Debug\snake.exe
 C:\Users\Екатерина\Documents\GitHub\snake\snake\snake\obj\Debug\snake.pdb
+C:\Users\Екатерина\Documents\GitHub\snake\snake\snake\bin\Debug\snake.exe
+C:\Users\Екатерина\Documents\GitHub\snake\snake\snake\bin\Debug\snake.pdb
+C:\Users\Екатерина\Documents\GitHub\snake\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
