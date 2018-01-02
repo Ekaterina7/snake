@@ -8,5 +8,15 @@ namespace snake
 {
     class Figure
     {
+       protected List<Point> plist;
+
+        public void Drow()
+
+        {
+            foreach (var i in plist)
+            {
+                i.Draw();
+            }
+        }
     }
 }
